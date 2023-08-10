@@ -1,0 +1,35 @@
+[
+  {
+  "studentId": "987654",
+  "role": "Student",
+  "startDate": "2023-09-01",
+  "endDate": "2023-12-15",
+  "membershipStatus": "Active",
+  "name":"om"
+},
+ {
+  "studentId": "456789",
+  "role": "Student",
+  "startDate": "2023-07-15",
+  "endDate": "2023-11-30",
+  "membershipStatus": "Inactive",
+  "name":"Olivia Miller"
+},
+{
+  "studentId": "789123",
+  "role": "Teacher",
+  "startDate": "2023-06-01",
+  "endDate": "2023-12-31",
+  "membershipStatus": "Active",
+  "name":"Olivia jones"
+},
+  {
+  "studentId": "234567",
+  "role": "Student",
+  "startDate": "2023-08-25",
+  "endDate": "2024-01-15",
+  "membershipStatus": "Active",
+  "name":"Dhruuv Naik"
+}
+ 
+]
